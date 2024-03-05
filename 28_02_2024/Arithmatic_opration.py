@@ -1,0 +1,6 @@
+num1=int(input("Enter first number :"))
+num2 = int(input("Enter sec number :"))
+print("Add two number",num1+num2)
+print("sub two number",num1-num2)
+print("mult two number",num1*num2)
+print("dev two number",num1/num2)
